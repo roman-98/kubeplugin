@@ -4,7 +4,7 @@
 
 ### Клонування репозиторію
 ```sh
-git clone https://github.com/roman-98/scripts.git
+git clone https://github.com/roman-98/kubeplugin.git
 cd kubeplugin/scripts
 ```
 
