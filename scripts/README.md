@@ -5,7 +5,7 @@
 ### Клонування репозиторію
 ```sh
 git clone https://github.com/roman-98/scripts.git
-cd scripts/kubeplugin
+cd kubeplugin/scripts
 ```
 
 ### 1. надання файлу прав на виконання
